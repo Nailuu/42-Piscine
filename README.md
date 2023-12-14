@@ -1,5 +1,5 @@
 # 42-Piscine 🏊
-This repository contains all of the Piscine's projects I did during the 1st piscine of 42 Luxembourg.
+This repository contains all of the Piscine's projects I did during the 1st piscine of 42 Luxembourg in November/December 2023.
 Be cautious some exercices/projects didn't pass the Moulinette, like the 1st Rush and the BSQ.
 
 It was an amazing experience, where I met incredile persons, and I learned a lot on Bash and the C programming language.
